@@ -1,0 +1,2 @@
+## Summary
+This project was done as a part of the portfolio projects during the Udacity Data Science nanodegree. I have created an image classifier using a Convolutional Neural Network (CNN) architecture. Without performing granular hyperparameter optimizations, I was able to achieve 78% validation accuracy.
